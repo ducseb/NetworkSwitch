@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkSwitch", "NetWorkSwitch\NetWorkSwitch.csproj", "{040A6955-16EB-409E-AB06-B7A16A6494CF}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BatchModeFree|Any CPU = BatchModeFree|Any CPU
+		BatchModeNumericable|Any CPU = BatchModeNumericable|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.BatchModeFree|Any CPU.ActiveCfg = BatchModeFree|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.BatchModeFree|Any CPU.Build.0 = BatchModeFree|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.BatchModeNumericable|Any CPU.ActiveCfg = BatchModeNumericable|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.BatchModeNumericable|Any CPU.Build.0 = BatchModeNumericable|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040A6955-16EB-409E-AB06-B7A16A6494CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
